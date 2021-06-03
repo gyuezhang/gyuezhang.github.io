@@ -84,7 +84,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -134,12 +134,12 @@ menu:
 menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
-  home: home
+  home: house-tree
   about: user
-  categories: th
+  categories: folder-grid
   schedule: calendar
   tags: tags
-  archives: archive
+  archives: inboxes
   sitemap: sitemap
   commonweal: heartbeat
 
