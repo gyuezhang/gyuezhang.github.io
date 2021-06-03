@@ -134,12 +134,12 @@ menu:
 menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
-  home: house-tree
+  home: home
   about: user
-  categories: fa-folder-open
+  categories: th
   schedule: calendar
   tags: tags
-  archives: inboxes
+  archives: archive
   sitemap: sitemap
   commonweal: heartbeat
 
