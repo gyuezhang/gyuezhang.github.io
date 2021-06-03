@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Gyue's blog
+title: Gyue的博客
 subtitle:
 description:
 author: gyuezhang
@@ -120,7 +120,7 @@ menu:
   home: /
   categories: /categories/
   archives: /archives/
-  about: /about/
+  #about: /about/
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
