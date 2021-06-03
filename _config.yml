@@ -136,7 +136,7 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: house-tree
   about: user
-  categories: folder-grid
+  categories: fa-folder-open
   schedule: calendar
   tags: tags
   archives: inboxes
